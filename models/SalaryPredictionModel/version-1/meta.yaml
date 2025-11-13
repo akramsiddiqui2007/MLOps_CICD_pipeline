@@ -1,0 +1,15 @@
+creation_timestamp: 1763046693341
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1763046693341
+model_id: m-4e6395cd65514318b2bf1a653da09663
+name: SalaryPredictionModel
+run_id: 6f1202aa89604c16868c8fccb69ffcd1
+run_link: null
+source: models:/m-4e6395cd65514318b2bf1a653da09663
+status: READY
+status_message: null
+storage_location: file:///home/akram/mlops_salary_capstone/mlruns/983816932083839018/models/m-4e6395cd65514318b2bf1a653da09663/artifacts
+user_id: null
+version: 1

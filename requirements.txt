@@ -1,0 +1,30 @@
+# Core ML packages
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+scipy==1.13.0
+
+# Experiment tracking
+mlflow==2.12.1
+
+# App deployment
+streamlit==1.36.0
+
+# Monitoring (Evidently)
+evidently==0.4.17
+
+# Required dependencies
+plotly==5.22.0
+pydantic==1.10.14
+PyYAML==6.0.1
+requests==2.32.3
+rich==13.7.1
+watchdog==4.0.1
+uvicorn==0.29.0
+fastapi==0.110.0
+python-multipart==0.0.9
+fsspec==2024.2.0
+urllib3==2.2.2
+typing-inspect==0.9.0
+iterative-telemetry==0.0.8
+
